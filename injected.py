@@ -9,9 +9,7 @@ Written by /u/Redbiertje
 
 #Imports
 from __future__ import division
-import numpy as np
 import datetime
-import time
 import sys
 
 reload(sys)
