@@ -9,7 +9,6 @@ Written by /u/Redbiertje
 
 #Imports
 from __future__ import division
-import numpy as np
 import datetime
 import botData as bd
 import time
